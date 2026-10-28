@@ -1,0 +1,15 @@
+{
+  "name": "master-modz-panel-bot",
+  "version": "1.0.0",
+  "description": "MASTER MODZ Panel — single file Node.js panel (zero dependencies)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
